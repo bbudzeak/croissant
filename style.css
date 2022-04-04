@@ -1,3 +1,13 @@
+body {
+  text-align: center;
+  background-color: rgb(255, 221, 148);
+  margin: 40px;
+}
+
+p {
+  font-size: 24px;
+}
+
 img {
   max-width: 600px;
 }
